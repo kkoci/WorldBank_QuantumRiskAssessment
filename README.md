@@ -20,7 +20,7 @@
 
 
 
-\[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch\_on\_qBraid\_black.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/kkoci/WorldBank\_QuantumRiskAssessment)
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch\_on\_qBraid\_black.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/kkoci/WorldBank\_QuantumRiskAssessment)
 
 
 
